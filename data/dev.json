@@ -1,0 +1,10 @@
+[
+  {
+    "text": "各 位 听 众 ， 中 国 战 略 导 弹 部 队 旅 长 高 金 着 眼 未 来 战 争 ， 苦 练 精 兵 ， １ ９ ９ ５ 年 以 来 ， 率 部 连 续 执 行 中 央 军 委 下 达 的 重 大 军 事 斗 争 和 现 代 战 争 演 习 任 务 ， 亲 自 指 挥 发 射 了 １ ８ 枚 导 弹 ， 荣 立 两 次 一 等 功 、 一 次 二 等 功 。",
+    "tag": "O O O O O B-ORG M-ORG M-ORG M-ORG M-ORG M-ORG M-ORG E-ORG O O B-PER E-PER O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG E-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O"
+  },
+  {
+    "text": "那 样 反 而 会 把 事 情 弄 糟 ．",
+    "tag": "O O O O O O O O O O O"
+  }
+]
